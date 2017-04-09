@@ -1,3 +1,3 @@
 # gitshills
 add dev branch.
-add duorenA
+add duorenB duorenA
